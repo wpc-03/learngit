@@ -4,5 +4,6 @@ Hello Git !
 hello world!
 nihao  woshi man
 hello 
-git tracks changes
+git tracks changes   这次修改 add
 git
+git  again  这次修改完commit
