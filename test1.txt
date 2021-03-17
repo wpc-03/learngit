@@ -4,3 +4,5 @@ Hello Git !
 hello world!
 nihao  woshi man
 hello 
+git tracks changes
+git
